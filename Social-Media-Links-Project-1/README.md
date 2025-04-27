@@ -21,7 +21,7 @@ This is a solution to the [Social Media Links challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/social-media-links-9_iJEI_s6f
 - Live Site URL: https://jyogita.github.io/Frontend-Mentor-Challenges/Social-Media-Links-Project-1/
 
 ## My process
