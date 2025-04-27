@@ -22,7 +22,7 @@ This is a solution to the [Social Media Links challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: 
-- Live Site URL: 
+- Live Site URL: https://jyogita.github.io/Frontend-Mentor-Challenges/Social-Media-Links-Project-1/
 
 ## My process
 
