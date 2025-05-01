@@ -40,6 +40,10 @@ body{
     max-width: 100%;
 }
 
+.product-card_image .hidden{
+    display: none;
+}
+
 .product-card_image img{
     height: 100%;
     max-width: 100%;

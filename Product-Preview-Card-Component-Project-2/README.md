@@ -21,7 +21,7 @@ This is a solution to the [Product Preview Card Component on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-Ep2djTZWVd
 - Live Site URL: https://jyogita.github.io/Frontend-Mentor-Challenges/Product-Preview-Card-Component-Project-2/
 
 ## My process
