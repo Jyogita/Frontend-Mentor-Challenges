@@ -118,7 +118,7 @@ body{
     padding-right: 5px;
     vertical-align: top;
 }
-.product-card_button:hover{
+.product-card_button:hover, .product-card_button:focus{
     background-color: var(--green-700);
 }
 
