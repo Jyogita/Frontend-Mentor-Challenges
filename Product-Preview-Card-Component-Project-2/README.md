@@ -21,7 +21,7 @@ This is a solution to the [Product Preview Card Component on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/social-media-links-9_iJEI_s6f
+- Solution URL: 
 - Live Site URL: https://jyogita.github.io/Frontend-Mentor-Challenges/Product-Preview-Card-Component-Project-2/
 
 ## My process
