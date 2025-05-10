@@ -28,7 +28,7 @@ body{
     padding: 20px;
     background-color: var(--white);
     border: 1px solid black;
-    border-radius: 12px;
+    border-radius: 15px;
     box-shadow: 6px 6px 4px 3px var(--gray-950);
     cursor: pointer;
 }
@@ -44,22 +44,24 @@ body{
 }
 
 .preview-card-tag{
-    display: block;
-    width: 20%;
-    text-align: center;
-    margin: 11px 0;
-    padding: 5px 0;
+    margin: 16px 0;
+}
+
+.preview-card-tag--color{
+    padding: 5px 6px;
     font-weight: 700;
     background-color: var(--yellow);
 }
 
 .preview-card-date{
-    padding-bottom: 16px;
+    padding-bottom: 19px;
+    font-size: 13px;
 }
 
 .preview-card-title{
     padding-bottom: 16px;
     font-weight: 800;
+    font-size: 18px;
 }
 
 .container:hover .preview-card-title{
@@ -69,6 +71,7 @@ body{
 .preview-card-content{
     color: var(--gray-500);
     padding-bottom: 20px;
+    line-height: 20px;
 }
 
 .preview-card-profile{
@@ -94,4 +97,10 @@ body{
 }
 .attribution a {
     color: hsl(228, 45%, 44%);
+}
+
+@media screen and (max-width:767px){
+    .container{
+        margin: 0 30px;
+    }
 }
