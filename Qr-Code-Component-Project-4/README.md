@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-NGSvVPO2sR
 - Live Site URL: https://jyogita.github.io/Frontend-Mentor-Challenges/Qr-Code-Component-Project-4/
 
 ## 🛠 Built with
