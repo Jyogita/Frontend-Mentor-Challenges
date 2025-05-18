@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/order-summary-component-7AoR8etWJP
 - Live Site URL: https://jyogita.github.io/Frontend-Mentor-Challenges/Order-Summary-Component-Project-5/
 
 ## 🛠 Built with
