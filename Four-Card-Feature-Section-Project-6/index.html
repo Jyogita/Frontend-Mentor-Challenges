@@ -3,7 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- displays site properly based on user's device -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -21,40 +20,56 @@
   </head>
   <body>
     <main class="container">
-      <div class="card">
-        <h1>Reliable, efficient delivery<br /><span>Powered by Technology</span></h1>
-        <div>Our Artificial Intelligence powered tools use millions of project data points to ensure
-      that your project is successful</div>
-        <div class="card__section">
-          <div class="card__section--one">
-            <h2>Supervisor</h2>
-            <p>Monitors activity to identify project roadblocks</p>
-            <img src="" alt="Manifying Glass" />
-          </div>
+      <!-- header -->
+      <header class="header">
+          <h1>Reliable, efficient delivery<br /><span class="header--bold">Powered by Technology</span></h1>
+          <p>Our Artificial Intelligence powered tools use millions of project data points to ensure that your project is successful</p>
+      </header>
+      <!-- card -->
+      <section class="card">
+        <!-- card one -->
+        <div class="card__section--one">
+            <div class="card__content">
+              <h2>Supervisor</h2>
+              <p>Monitors activity to identify project roadblocks</p>
+              <img src="./images/icon-supervisor.svg" alt="Manifying Glass" />
+            </div>
+        </div>
+        <div class="card__section--middle">
+          <!-- card two -->
           <div class="card__section--two">
-            <div>
+            <div class="card__content">
               <h2>Team Builder</h2>
               <p>Scans our talent network to create the optimal team for your project</p>
-              <img src="" alt="Manifying Glass" /></div>
-            <div>
+              <img src="./images/icon-team-builder.svg" alt="Calculator Icon" />
+            </div>
+          </div>
+          <!-- card three -->
+          <div class="card__section--three">
+            <div class="card__content">
               <h2>Karma</h2>
               <p>Regularly evaluates our talent to ensure quality</p>
-              <img src="" alt="Manifying Glass" /></div>
-          </div>
-          <div class="card__section--third">
-            <h2>Calculator</h2>
-            <p>Uses data from past projects to provide better delivery estimates</p>
-            <img src="" alt="Manifying Glass" />
+              <img src="./images/icon-karma.svg" alt="Calculator Icon" />
+            </div>
           </div>
         </div>
-      </div>    
+        <!-- card four -->
+        <div class="card__section--four">
+            <div class="card__content">
+              <h2>Calculator</h2>
+              <p>Uses data from past projects to provide better delivery estimates</p>
+              <img src="./images/icon-calculator.svg" alt="Calculator Icon" />
+            </div>
+        </div>
+      </section>
     </main>
+    <!-- footer -->
     <footer>
       <p class="attribution">
         Challenge by
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
           >Frontend Mentor</a
-        >. Coded by <a href="#">Your Name Here</a>.
+        >. Coded by <a href="#">Jyogita</a>.
       </p>
     </footer>
   </body>
